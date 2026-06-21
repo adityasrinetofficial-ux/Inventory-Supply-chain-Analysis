@@ -84,16 +84,19 @@ The objective of this project is to help businesses optimize inventory managemen
 
 ---
 
-## 🚀 Business Impact
+## 📊 Key Insights
 
-This dashboard enables supply chain managers and business stakeholders to:
+* Warehouse utilization averaged **78.2%**, indicating efficient storage capacity management.
+* The **Furniture** category maintained the highest inventory levels, contributing significantly to overall stock holdings.
+* Inventory distribution varied across regions, highlighting opportunities for stock optimization.
+* Transportation costs differed by region, enabling identification of high-cost logistics areas.
+* Sales trends revealed strong demand across product categories, supporting inventory planning decisions.
+* Inventory Turnover Ratio and DSI metrics helped evaluate inventory efficiency and stock movement.
+* Backorder analysis provided visibility into supply-demand gaps, supporting better replenishment planning.
 
-* Improve inventory planning and control.
-* Reduce excess stock and carrying costs.
-* Enhance warehouse utilization.
-* Optimize transportation expenses.
-* Improve order fulfillment performance.
-* Make informed operational decisions using data-driven insights.
+### Business Impact
+
+The dashboard enables data-driven decisions by improving inventory control, optimizing warehouse utilization, reducing logistics costs, and enhancing overall supply chain performance.
 
 ---
 
@@ -110,6 +113,7 @@ This dashboard enables supply chain managers and business stakeholders to:
 * MBA (International Business)
 * Aspiring Supply Chain & Business Analyst
 * Skills: Power BI, Excel, Tableau, Data Analysis, Data Visualization
+* Linkedin:- https://www.linkedin.com/in/adityasrinet 
 
 ---
 
