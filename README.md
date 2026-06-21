@@ -86,7 +86,7 @@ The objective of this project is to help businesses optimize inventory managemen
 
 ## 📊 Key Insights
 
-* Warehouse utilization averaged **78.2%**, indicating efficient storage capacity management.
+* Warehouse Utilization achieved 34.8% against a target of 65%, indicating underutilized warehouse capacity and potential optimization opportunities.
 * The **Furniture** category maintained the highest inventory levels, contributing significantly to overall stock holdings.
 * Inventory distribution varied across regions, highlighting opportunities for stock optimization.
 * Transportation costs differed by region, enabling identification of high-cost logistics areas.
