@@ -99,7 +99,7 @@ This dashboard enables supply chain managers and business stakeholders to:
 
 ## 📷 Dashboard Preview
 
-<img width="100%" alt="Supply Chain Dashboard" src="dashboard_screenshot.png">
+<img width="100%" alt="Supply Chain Dashboard" src="Inventory and Supply Chain Management Analysis .png">
 
 ---
 
